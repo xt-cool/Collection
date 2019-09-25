@@ -1,14 +1,8 @@
 使用须知：
 
-1. 使用 gitlab 的仓库之前，需要先创建一个 [gitlab](https://git.lug.ustc.edu.cn/users/sign_in) 账号。然后提供创建账号时的邮箱给佳荣（就是我了😎），
+1. 目前分类主要为 VueComponent、CssComponent、Animation 和 JavaScript，四类。在 VueComponent 文件夹中已有一个示例（包括了组件及其介绍），即 fileTree文件夹，仅供大家参考。
 
-   佳荣添加到工作组后，就可以愉快的 clone 了。
-
-2. clone 到本地后，可以使用 vscode 进行后续的 拉取和更新。也可使用 [github Desktop](https://desktop.github.com) 。
-
-3. 目前分类主要为 VueComponent、CssComponent、Animation 和 JavaScript，四类。在 VueComponent 文件夹中已有一个示例（包括了组件及其介绍），即 fileTree文件夹，仅供大家参考。
-
-4. 项目内已全局引入 element-UI。使用 x-code 可使输入的代码高亮。 
+2. 项目内已全局引入 element-UI。使用 x-code 可使输入的代码高亮。 
 
    
 
