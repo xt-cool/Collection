@@ -1,0 +1,21 @@
+/* 
+*  全局的 CSS 控制
+*/
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+pre {
+  // margin-top: 50px;
+  text-align: left;
+  background-color: #eee;
+  code {
+    padding: 0;
+    // margin: 10px;
+    width: auto;
+  }
+}
